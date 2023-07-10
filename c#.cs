@@ -257,9 +257,5 @@ public class müsteri
 
         }
 
-        private void toolStripButton12_Click(object sender, EventArgs e)
-        {
-
-        }
-
+       
        
